@@ -25,7 +25,7 @@ const SideMenu = () => {
 
                 }}
             >
-                <Menu.Item key="/" icon={<HomeOutlined />} >
+                <Menu.Item key="/student-dashboard" icon={<HomeOutlined />} >
                     HomePage
                 </Menu.Item>
                 <Menu.Item key="/dashboard" icon={<AppstoreOutlined />} >
