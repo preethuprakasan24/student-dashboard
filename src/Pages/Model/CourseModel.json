@@ -1,0 +1,212 @@
+{
+  "courseModel": [
+    {
+      "id": 1,
+      "name": "Introduction to React Native",
+      "instructor": "'John Doe",
+      "description": "Learn the basics of React Native developemnt",
+      "enrollmentStatus": "Open",
+      "duration": "8 Weeks",
+      "location": "online",
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "'Introduction to React Native'",
+          "content": "Overview of React Native, setting up your development environment"
+        },
+        {
+          "week": 2,
+          "topic": "Building Your First App",
+          "content": "Creating a simple mobile app using React Native components"
+        },
+        {
+          "week": 3,
+          "topic": "Introduction to Routing",
+          "content": "Creating a simple mobile app by giving proper routing"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Introduction to ReactJs",
+      "instructor": "'Salim Doe",
+      "description": "Learn the basics of ReactJS",
+      "enrollmentStatus": "In Progress",
+      "duration": "8 Weeks",
+      "location": "online",
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "'Introduction to ReactJS'",
+          "content": "Overview of ReactJS, setting up your development environment"
+        },
+        {
+          "week": 2,
+          "topic": "Building Your First App",
+          "content": "Creating a simple mobile app using ReactJS components"
+        },
+        {
+          "week": 3,
+          "topic": "Introduction to Routing",
+          "content": "Creating a simple web app by giving proper routing"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Introduction to Python",
+      "instructor": "'Nikhil D",
+      "description": "Learn the basics of Python",
+      "enrollmentStatus": "Open",
+      "duration": "10 Weeks",
+      "location": "online",
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "'Introduction to Python'",
+          "content": "Overview of Python, setting up your development environment"
+        },
+        {
+          "week": 2,
+          "topic": "Building Your First App",
+          "content": "Creating a simple app using Python components"
+        },
+        {
+          "week": 3,
+          "topic": "Introduction to Routing",
+          "content": "Creating a simple  app by giving proper routing"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Introduction to Python",
+      "instructor": "'Nikhil D",
+      "description": "Learn the basics of Python",
+      "enrollmentStatus": "Closed",
+      "duration": "10 Weeks",
+      "location": "online",
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "'Introduction to Python'",
+          "content": "Overview of Python, setting up your development environment"
+        },
+        {
+          "week": 2,
+          "topic": "Building Your First App",
+          "content": "Creating a simple app using Python components"
+        },
+        {
+          "week": 3,
+          "topic": "Introduction to Routing",
+          "content": "Creating a simple  app by giving proper routing"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Introduction to AI",
+      "instructor": "'Nikhil D",
+      "description": "Learn the basics of Python",
+      "enrollmentStatus": "Open",
+      "duration": "10 Weeks",
+      "location": "online",
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "'Introduction to Python'",
+          "content": "Overview of Python, setting up your development environment"
+        },
+        {
+          "week": 2,
+          "topic": "Building Your First App",
+          "content": "Creating a simple app using Python components"
+        },
+        {
+          "week": 3,
+          "topic": "Introduction to Routing",
+          "content": "Creating a simple  app by giving proper routing"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Introduction to MEAN Stack",
+      "instructor": "'Nikhil D",
+      "description": "Learn the basics of Python",
+      "enrollmentStatus": "In Progress",
+      "duration": "10 Weeks",
+      "location": "online",
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "'Introduction to Python'",
+          "content": "Overview of Python, setting up your development environment"
+        },
+        {
+          "week": 2,
+          "topic": "Building Your First App",
+          "content": "Creating a simple app using Python components"
+        },
+        {
+          "week": 3,
+          "topic": "Introduction to Routing",
+          "content": "Creating a simple  app by giving proper routing"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Introduction to MERN Stack",
+      "instructor": "'Nikhil D",
+      "description": "Learn the basics of Python",
+      "enrollmentStatus": "Open",
+      "duration": "10 Weeks",
+      "location": "online",
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "'Introduction to Python'",
+          "content": "Overview of Python, setting up your development environment"
+        },
+        {
+          "week": 2,
+          "topic": "Building Your First App",
+          "content": "Creating a simple app using Python components"
+        },
+        {
+          "week": 3,
+          "topic": "Introduction to Routing",
+          "content": "Creating a simple  app by giving proper routing"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Introduction to Flutter",
+      "instructor": "'Nikhil D",
+      "description": "Learn the basics of Python",
+      "enrollmentStatus": "Closed",
+      "duration": "10 Weeks",
+      "location": "online",
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "'Introduction to Python'",
+          "content": "Overview of Python, setting up your development environment"
+        },
+        {
+          "week": 2,
+          "topic": "Building Your First App",
+          "content": "Creating a simple app using Python components"
+        },
+        {
+          "week": 3,
+          "topic": "Introduction to Routing",
+          "content": "Creating a simple  app by giving proper routing"
+        }
+      ]
+    }
+  ]
+}
